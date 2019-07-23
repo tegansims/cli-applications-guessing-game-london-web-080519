@@ -10,7 +10,7 @@ def run_guessing_game
 # If the user's input DOES NOT matches the random number: Sorry! The computer guessed <number>.
 # It the user's input is equal to "exit": Goodbye!
   if computer_turn == your_turn.to_i
-    puts "You guessed the right number!"
+    puts "You guessed the correct number!"
   elsif your_turn == "exit"
     puts "Goodbye!"
   else
