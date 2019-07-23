@@ -1,1 +1,1 @@
-(1..6).rand
+return (1..6).rand
