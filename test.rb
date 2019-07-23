@@ -1,1 +1,1 @@
-puts 1+ rand(6)
+compputer turn =  1+ rand(6)
