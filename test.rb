@@ -1,1 +1,1 @@
-return 1 + rand(6)
+print 1 + rand(6)
